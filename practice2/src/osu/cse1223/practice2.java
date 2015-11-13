@@ -22,6 +22,7 @@ public class practice2 {
 			middle = word.substring(position-1,(position+1));
 			System.out.println(middle);
 			}
+		System.out.println("First Change");
 		return middle;
 		}
 }
